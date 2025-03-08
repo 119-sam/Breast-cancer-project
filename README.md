@@ -5,7 +5,7 @@
 This project aims to develop a machine learning model to predict breast cancer based on various medical features. The model is trained on a dataset containing information about breast cancer patients, including tumor characteristics and other relevant medical data.
 
 ## Dataset
-The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) dataset, which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The dataset includes 569 instances and 30 features.
+The dataset used for this project is the Breast Cancer dataset from Scikit-Learn, which contains numerical features computed from fine needle aspirate (FNA) of breast masses. It includes 569 instances with 30 numerical features, used to classify tumors as malignant or benign based on various characteristics.
 
 ## Features
 The dataset includes the following features:
